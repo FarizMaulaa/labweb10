@@ -1,11 +1,21 @@
+## Nama : Fariz Maulana
+
+## NIM : 312110023
+
+## Kelas : TI.21.B1
+
 # PRAKTIKUM 10 | PHP OOP
+
 ## Apa itu OOP (Object Oriented Progamming)
+
 #### OOP adalah singkatan dari Object Oriented Programming, yaitu suatu metode pemrograman yang fokus atau berorientasi pada objek. Tujuan dari dirancangnya OOP adalah membantu para developer dalam mengembangkan model yang sudah ada di kehidupan sehari-hari
 
 ## Langkah - langkah praktikum
 
 ### 1. buatlah file baru dengan nama mobil.php
+
 Lalu masukkan kode di bawah ini :
+
 ```
 <?php
 /**
@@ -53,11 +63,14 @@ $b->gantiWarna("Hijau");
 $b->tampilWarna();
 ?>
 ```
+
 Output :
 ![Screenshot (126)](https://user-images.githubusercontent.com/98897250/206978987-5dd064c3-951c-428a-bfe8-884d5c1a6d65.png)
 
 ### 2. buatlah file baru dengan nama form.php
+
 Lalu masukkan kode di bawah ini :
+
 ```
 <?php
 /**
@@ -76,8 +89,11 @@ $form->displayForm();
 echo "</body></html>";
 ?>
 ```
+
 ### 3. buatlah file baru dengan nama form_input.php
+
 Lalu masukkan kode di bawah ini :
+
 ```
 <?php
 /**
@@ -96,5 +112,6 @@ $form->displayForm();
 echo "</body></html>";
 ?>
 ```
+
 Outputnya :
 ![Screenshot (128)](https://user-images.githubusercontent.com/98897250/206980512-2a123632-8676-4cea-aa5c-a092a39afe76.png)
