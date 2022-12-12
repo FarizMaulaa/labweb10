@@ -1,6 +1,6 @@
 # PRAKTIKUM 10 | PHP OOP
 ## Apa itu OOP (Object Oriented Progamming)
-### OOP adalah singkatan dari Object Oriented Programming, yaitu suatu metode pemrograman yang fokus atau berorientasi pada objek. Tujuan dari dirancangnya OOP adalah membantu para developer dalam mengembangkan model yang sudah ada di kehidupan sehari-hari
+#### OOP adalah singkatan dari Object Oriented Programming, yaitu suatu metode pemrograman yang fokus atau berorientasi pada objek. Tujuan dari dirancangnya OOP adalah membantu para developer dalam mengembangkan model yang sudah ada di kehidupan sehari-hari
 
 ## Langkah - langkah praktikum
 
